@@ -97,16 +97,16 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## TODOs:
 
 - [x] Day/Night effects
-- [] Ultimate effects for every hero  
-- [] Autodiscovery for Hue Bridge 
-- [] Error checks
-- [] Integration Tests
-- [] batchScript to fix the problem with `gamestate_integration_steelseries.ctg` file
-- [] front-end ? for Choosing a collor per effect ? (maybe)
+- [ ] Ultimate effects for every hero  
+- [ ] Autodiscovery for Hue Bridge 
+- [ ] Error checks
+- [ ] Integration Tests
+- [ ] batchScript to fix the problem with `gamestate_integration_steelseries.ctg` file
+- [ ] front-end ? for Choosing a collor per effect ? (maybe)
 
 ## Ultimate effects for every hero  :
-- [] Lion
-- [] Axe
-- [] Zeus
-- [] Lina
-- [] Luna
+- [ ] Lion
+- [ ] Axe
+- [ ] Zeus
+- [ ] Lina
+- [ ] Luna
