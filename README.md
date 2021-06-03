@@ -1,9 +1,10 @@
 # dota2hue
 philips hue ambiance from dota 2 events
 
-demo here : 
-https://media.giphy.com/media/26n6NMIjJaQv826ys/giphy.gif
-
+# DEMO
+---
+![](https://github.com/dadobt/dota2hue/blob/master/gifs/ezgif.com-video-to-gif.gif)
+---
 ### Prerequisites
 
 - Java 8 
